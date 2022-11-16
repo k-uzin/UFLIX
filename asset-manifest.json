@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/UFLIX/static/css/main.27f92bf5.css",
-    "main.js": "/UFLIX/static/js/main.b0882532.js",
-    "index.html": "/UFLIX/index.html",
-    "main.27f92bf5.css.map": "/UFLIX/static/css/main.27f92bf5.css.map",
-    "main.b0882532.js.map": "/UFLIX/static/js/main.b0882532.js.map"
+    "main.css": "/UFLIX-app/static/css/main.de0c9357.css",
+    "main.js": "/UFLIX-app/static/js/main.fefc5b62.js",
+    "index.html": "/UFLIX-app/index.html",
+    "main.de0c9357.css.map": "/UFLIX-app/static/css/main.de0c9357.css.map",
+    "main.fefc5b62.js.map": "/UFLIX-app/static/js/main.fefc5b62.js.map"
   },
   "entrypoints": [
-    "static/css/main.27f92bf5.css",
-    "static/js/main.b0882532.js"
+    "static/css/main.de0c9357.css",
+    "static/js/main.fefc5b62.js"
   ]
 }
